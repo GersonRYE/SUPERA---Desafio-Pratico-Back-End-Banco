@@ -24,3 +24,7 @@ banco de dados:
 <img src="https://user-images.githubusercontent.com/91353097/165001923-b79890af-1c54-4f79-a2b2-25ef056ff065.png" width="300"/>
 </div>
 
+- A cada pesquisa aperte no botão SEND
+<div alingn-"center">
+<img src="https://user-images.githubusercontent.com/91353097/165002068-fe2234fd-c1ae-457f-922a-bc4b509fb7d1.png" width="300"/>
+</div>
