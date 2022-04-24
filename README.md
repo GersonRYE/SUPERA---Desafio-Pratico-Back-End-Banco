@@ -26,5 +26,5 @@ banco de dados:
 
 - A cada pesquisa aperte no botão SEND
 <div alingn-"center">
-<img src="https://user-images.githubusercontent.com/91353097/165002068-fe2234fd-c1ae-457f-922a-bc4b509fb7d1.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/91353097/165002068-fe2234fd-c1ae-457f-922a-bc4b509fb7d1.png" width="600"/>
 </div>
