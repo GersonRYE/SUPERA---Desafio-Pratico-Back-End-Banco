@@ -1,0 +1,192 @@
+{
+	"info": {
+		"_postman_id": "bcb9cb34-9c2a-495e-884a-8852e9ab2884",
+		"name": "ExtratoBancario",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Conta",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/contas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"contas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Extrato",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/extratos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"extratos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post Contas",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"fulano\",\r\n    \"saldo\": 1000.00\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/contas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"contas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post Extratos",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"data\": \"2022-04-23\",\r\n    \"valor\": -200.00,\r\n    \"tipo\": \"Saque\",\r\n    \"operador\": {\r\n        \"id\": 1\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/extratos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"extratos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Periodo Nome",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/extratos/periodo-nome?data1=2022-01-01&data2=2022-05-01&nome=Gerson",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"extratos",
+						"periodo-nome"
+					],
+					"query": [
+						{
+							"key": "data1",
+							"value": "2022-01-01"
+						},
+						{
+							"key": "data2",
+							"value": "2022-05-01"
+						},
+						{
+							"key": "nome",
+							"value": "Gerson"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Data Extrato",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/extratos/data?data1=2022-01-01&data2=2022-05-01",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"extratos",
+						"data"
+					],
+					"query": [
+						{
+							"key": "data1",
+							"value": "2022-01-01"
+						},
+						{
+							"key": "data2",
+							"value": "2022-05-01"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Nome Conta",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/contas?nome=gerson",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"contas"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "gerson"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
