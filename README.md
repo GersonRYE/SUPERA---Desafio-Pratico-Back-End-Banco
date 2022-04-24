@@ -15,9 +15,9 @@ banco de dados:
 ## Testes API
 - Instalar o postman para testes da API - link -> https://www.postman.com/
 - Depois de instalado importar a collection armazenado na pasta POSTMAN do repositório
-![import](https://user-images.githubusercontent.com/91353097/165001607-33a53a09-8730-4622-ad8a-36c14395ed8e.png)
+![import](https://user-images.githubusercontent.com/91353097/165001755-20c8fe90-b6f9-41dd-a2a8-9ec1bb1005e1.png)
 
 <div alingn-"center">
-<img src="https://user-images.githubusercontent.com/91353097/165001607-33a53a09-8730-4622-ad8a-36c14395ed8e.png"
+<img src="https://user-images.githubusercontent.com/91353097/165001755-20c8fe90-b6f9-41dd-a2a8-9ec1bb1005e1.png" width="700px"/>
 </div>
 
