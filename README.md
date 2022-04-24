@@ -19,7 +19,7 @@ banco de dados:
 <img src="https://user-images.githubusercontent.com/91353097/165001755-20c8fe90-b6f9-41dd-a2a8-9ec1bb1005e1.png" width="300"/>
 </div>
 
-- Depois de importado note que aparecera as collection no lado esquerdo com os moetodo http GET e POST criado
+- Depois de importado note que aparecera as collection no lado esquerdo com os metodo http GET e POST criado
 <div alingn-"center">
 <img src="https://user-images.githubusercontent.com/91353097/165001923-b79890af-1c54-4f79-a2b2-25ef056ff065.png" width="300"/>
 </div>
