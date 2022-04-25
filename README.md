@@ -4,15 +4,25 @@
 
 Este teste consiste em construir uma camada de serviço, para uma operação muito realizada em bancos, para emissão de extrato bancário.
 
-## Execução da aplicação
+## Ferramentas necessárias
+- IDE Eclipse
+- MySql
+- Postman
 
-Executar a aplicação de acordo com sua IDE (Eclipse, IntelliJ, NetBeans), procurar o arquivo application.properties -> src/main/resources, e configurar para conexão com 
+## Como Executar
+
+- Abra o terminal de sua preferência e execute o comando ```git clone https://github.com/GersonRYE/SUPERA---Desafio-Pratico-Back-End-Banco.git```
+
+- Importe o projeto: File -> Import... -> Existing Projects into Worksparce -> Browse... -> localize o diretório -> Abra a pasta PS-Java-React-15-03-2022 - -> Finish;
+
+- Para executar a aplicação, procurar o arquivo application.properties, localizado src/main/resources, e configurar para conexão com 
 banco de dados:
-- spring.datasource.username - > seu usuario no banco de dados
-- spring.datasource.password -> sua senha
-- spring.datasource.url -> verificar se esta na porta correta do banco de dados
+spring.datasource.username - > seu usuario no banco de dados
+spring.datasource.password -> sua senha
+spring.datasource.url -> verificar se esta na porta correta do banco de dados
 
 ## Testes API
+
 - Instalar o postman para testes da API - link -> https://www.postman.com/
 - Depois de instalado importar a collection armazenado na pasta POSTMAN do repositório
 <div alingn-"center">
