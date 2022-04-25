@@ -25,7 +25,7 @@ spring.datasource.url -> verificar se esta na porta correta do banco de dados
 
 ## Testes API
 
-- No Postman importar a collection armazenado na pasta POSTMAN do repositório
+- Abra o Postman e importe a collection armazenado na pasta POSTMAN do repositório
 <div alingn-"center">
 <img src="https://user-images.githubusercontent.com/91353097/165001755-20c8fe90-b6f9-41dd-a2a8-9ec1bb1005e1.png" width="300"/>
 </div>
