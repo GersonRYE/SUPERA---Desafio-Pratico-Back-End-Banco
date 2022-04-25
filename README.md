@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este teste consiste em construir uma camada de serviço, para uma operação muito realizada em bancos, para emissão de extrato bancário.
+Este teste consiste em construir uma camada de serviço, para uma operação muito realizada em bancos, para emissão de extrato bancário
 
 ## Ferramentas necessárias
 - IDE Eclipse
@@ -31,7 +31,7 @@ spring.datasource.url -> verificar se esta na porta correta do banco de dados
 <img src="https://user-images.githubusercontent.com/91353097/165001755-20c8fe90-b6f9-41dd-a2a8-9ec1bb1005e1.png" width="300"/>
 </div>
 
-- Nome do arquivo:
+- Nome do arquivo
 <div alingn-"center">
 <img src="https://user-images.githubusercontent.com/91353097/165002514-8b97af8c-fc94-4fda-85c6-97f0f5d1c7a1.png" width="600"/>
 </div>
@@ -50,4 +50,4 @@ spring.datasource.url -> verificar se esta na porta correta do banco de dados
 <div alingn-"center">
 <img src="https://user-images.githubusercontent.com/91353097/165002288-d7f62be1-1eae-42c0-93cc-78b83be901dd.png" width="500"/>
 </div>
-Obs.: Não mude as configuração do KEY pois esta de acordo com os nomes do back-end do banco.
+Obs.: Não mude as configuração do KEY pois esta de acordo com os nomes do atributos do back-end do Banco.
