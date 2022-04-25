@@ -54,7 +54,7 @@ Obs.: Não mude as configuração do KEY pois esta de acordo com os nomes do atr
 ## Tarefas concluídas
 
 - Nenhum filtro informado retorna dados da transferencia OK
-- Filtro período tempo retorna dados referente ao período OK
-- Filtro nome retorna transferencias relacionadas OK
-- Filtro periodo tempo e nome com saldo total e saldo perídodo relacionado OK
+- Filtro período tempo retorna relacionados OK
+- Filtro nome retorna transferencias relacionados OK
+- Filtro periodo tempo e nome com saldo total e saldo período relacionados OK
 - Valor de ponto flutuante com duas casas decimais OK
