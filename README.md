@@ -19,6 +19,11 @@ banco de dados:
 <img src="https://user-images.githubusercontent.com/91353097/165001755-20c8fe90-b6f9-41dd-a2a8-9ec1bb1005e1.png" width="300"/>
 </div>
 
+- Nome do arquivo:
+<div alingn-"center">
+<img src="https://user-images.githubusercontent.com/91353097/165002514-8b97af8c-fc94-4fda-85c6-97f0f5d1c7a1.png" width="600"/>
+</div>
+
 - Depois de importado note que aparecera as collection no lado esquerdo com os metodo http GET e POST criado
 <div alingn-"center">
 <img src="https://user-images.githubusercontent.com/91353097/165001923-b79890af-1c54-4f79-a2b2-25ef056ff065.png" width="300"/>
