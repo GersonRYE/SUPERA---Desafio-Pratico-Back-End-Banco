@@ -29,7 +29,8 @@ banco de dados:
 <img src="https://user-images.githubusercontent.com/91353097/165002068-fe2234fd-c1ae-457f-922a-bc4b509fb7d1.png" width="600"/>
 </div>
 
-- Existira pesquisas personalizada nos campos KEY e VALUE referenciando ao periodo e nome do extrato, mude o campo VALUE para diferentes buscas
+- Existira pesquisas personalizada nos campos KEY = parametro e VALUE = (valor da busca) referenciando ao periodo e nome do extrato, mude o campo VALUE para diferentes buscas
 <div alingn-"center">
 <img src="https://user-images.githubusercontent.com/91353097/165002288-d7f62be1-1eae-42c0-93cc-78b83be901dd.png" width="500"/>
 </div>
+Obs.: Não mude as configuração do KEY pois esta de acordo com os nomes do back-end do banco.
