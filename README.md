@@ -15,11 +15,13 @@ Este teste consiste em construir uma camada de serviço, para uma operação mui
 
 - Importe o projeto: File -> Import... -> Existing Projects into Worksparce -> Browse... -> localize o diretório -> Abra a pasta PS-Java-React-15-03-2022 - -> Finish;
 
-- Para executar a aplicação, procurar o arquivo application.properties, localizado src/main/resources, e configurar para conexão com 
+- Configurar o arquivo application.properties, localizado src/main/resources, e configurar para conexão com 
 banco de dados:
 spring.datasource.username - > seu usuario no banco de dados
 spring.datasource.password -> sua senha
 spring.datasource.url -> verificar se esta na porta correta do banco de dados
+
+- Para executar ->  src/main/java/br.com.banco/BancoApplication.java
 
 ## Testes API
 
