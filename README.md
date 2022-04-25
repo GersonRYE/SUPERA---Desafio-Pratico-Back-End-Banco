@@ -13,7 +13,7 @@ Este teste consiste em construir uma camada de serviço, para uma operação mui
 
 - Abra o terminal de sua preferência e execute o comando ```git clone https://github.com/GersonRYE/SUPERA---Desafio-Pratico-Back-End-Banco.git```
 
-- Importe o projeto: File -> Import... -> Existing Projects into Worksparce -> Browse... -> localize o diretório -> Abra a pasta PS-Java-React-15-03-2022 - -> Finish;
+- Importe o projeto: File -> Import... -> Existing Maven Projects -> Browse... -> localize o diretório -> Abra a pasta PS-Java-React-15-03-2022 - -> Finish;
 
 - Configurar o arquivo application.properties, localizado src/main/resources, e configurar para conexão com 
 banco de dados:
