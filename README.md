@@ -50,3 +50,11 @@ spring.datasource.url -> verificar se esta na porta correta do banco de dados
 <img src="https://user-images.githubusercontent.com/91353097/165002288-d7f62be1-1eae-42c0-93cc-78b83be901dd.png" width="500"/>
 </div>
 Obs.: Não mude as configuração do KEY pois esta de acordo com os nomes do atributos do back-end do Banco.
+
+## Tarefas concluídas
+
+- Nenhum filtro informado retorna dados da transferencia OK
+- Filtro período tempo retorna dados referente ao período OK
+- Filtro nome retorna transferencias relacionadas OK
+- Filtro periodo tempo e nome com saldo total e saldo perídodo relacionado OK
+- Valor de ponto flutuante com duas casas decimais OK
